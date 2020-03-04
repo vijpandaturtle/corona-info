@@ -21,8 +21,8 @@ This is a small effort to list the resources I found about the coronavirus resea
 ## Respositories
 1. [(@nextstrain) Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov)
 2. [(@RamiKrispin) Coronavirus](https://github.com/RamiKrispin/coronavirus)
-3. [Corona Bot](https://github.com/the-robot/corona-bot)
-4. [Wuhan Coronavirus Data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
-5. [nCov 2019](https://github.com/GuangchuangYu/nCov2019)
+3. [(@the-robot) Corona Bot - Monitoring and service bot to give updates about coronavirus](https://github.com/the-robot/corona-bot)
+4. [(@globalcitizen) Wuhan Coronavirus Data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
+5. [(@GuangchangYu) Query Stats of Infected coronavirus cases](https://github.com/GuangchuangYu/nCov2019)
 
 ## Tools
