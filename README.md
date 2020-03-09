@@ -1,6 +1,6 @@
 # Coronavirus Info
 
-This is a small effort to list the resources I found about the coronavirus research, statistics, tools and general questions.
+List of resources I found about the coronavirus research, statistics, tools and general questions.
 
 ## Resources 
 1. [Articles]()
@@ -15,13 +15,17 @@ This is a small effort to list the resources I found about the coronavirus resea
 3. [Coronavirus-resource-center - Harvard Medical School](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
 4. [Breakdown of coronavirus risk by demographic factors](https://www.statnews.com/2020/03/03/who-is-getting-sick-and-how-sick-a-breakdown-of-coronavirus-risk-by-demographic-factors/)
 
-## Research Papers 
+## Videos 
+1. [Exponential Growth and Epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
+2. [Coronavirus (COVID-19) Update #2](https://www.youtube.com/watch?v=lhsCo92sUJk)
+
+## Research
 1. [Lancet Collection](https://www.thelancet.com/coronavirus)
 2. [Springer Nature Collection](https://www.springernature.com/gp/researchers/campaigns/coronavirus)
 3. [A completely new culture of doing research.’ Coronavirus outbreak changes how scientists communicate](https://www.sciencemag.org/news/2020/02/completely-new-culture-doing-research-coronavirus-outbreak-changes-how-scientists)
 4. [Coronavirus Research: Keys To Diagnosis, Treatment, And Prevention Of SARS](https://www.ncbi.nlm.nih.gov/books/NBK92477/)
 5. [New England Journal of Medicine](https://www.nejm.org/coronavirus)
-6. [Clarivate Analytics](https://clarivate.com/coronavirus-resources/)
+6. [Johns Hopkins Resource Center](https://coronavirus.jhu.edu/)
 
 ## Respositories
 1. [(@nextstrain) Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov)
