@@ -38,4 +38,4 @@ List of resources I found about the coronavirus research, statistics, tools and 
 6. [(@arnoudbuzing) Coronavirus sequencing and visualization projects in Wolfram](https://github.com/arnoudbuzing/wolfram-coronavirus)
 
 ## Tools
-1. [Coronavirus Data Tableau](https://www.tableau.com/covid-19-coronavirus-data-resources
+1. [Coronavirus Data Tableau](https://www.tableau.com/covid-19-coronavirus-data-resources)
