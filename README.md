@@ -26,6 +26,8 @@ List of resources I found about the coronavirus research, statistics, tools and 
 4. [Coronavirus Research: Keys To Diagnosis, Treatment, And Prevention Of SARS](https://www.ncbi.nlm.nih.gov/books/NBK92477/)
 5. [New England Journal of Medicine](https://www.nejm.org/coronavirus)
 6. [Johns Hopkins Resource Center](https://coronavirus.jhu.edu/)
+7. [The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported)
+8. [Effectiveness of Airport screening of travelling - coronavirus](https://cmmid.github.io/visualisations/traveller-screening)
 
 ## Respositories
 1. [(@nextstrain) Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov)
@@ -33,5 +35,7 @@ List of resources I found about the coronavirus research, statistics, tools and 
 3. [(@the-robot) Corona Bot - Monitoring and service bot to give updates about coronavirus](https://github.com/the-robot/corona-bot)
 4. [(@globalcitizen) Wuhan Coronavirus Data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
 5. [(@GuangchangYu) Query Stats of Infected coronavirus cases](https://github.com/GuangchuangYu/nCov2019)
+6. [(@arnoudbuzing) Coronavirus sequencing and visualization projects in Wolfram](https://github.com/arnoudbuzing/wolfram-coronavirus)
 
 ## Tools
+1. [Coronavirus Data Tableau](https://www.tableau.com/covid-19-coronavirus-data-resources
