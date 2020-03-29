@@ -19,6 +19,8 @@ List of resources I found about the coronavirus research, statistics, tools and 
 7. [Machine Learning methods to aid in coronavirus response](https://towardsdatascience.com/machine-learning-methods-to-aid-in-coronavirus-response-70df8bfc7861)
 8. [Exploring the coronavirus dataset](https://towardsdatascience.com/exploring-the-corona-virus-dataset-781de3a636e2)
 9. [Why are COVID statistics so different for Germany and Italy ?](https://towardsdatascience.com/why-are-covid-19-statistics-so-different-for-germany-and-italy-ee5bf376f461)
+10. [Modelling the coronavirus epidemic in a city with Python](https://towardsdatascience.com/modelling-the-coronavirus-epidemic-spreading-in-a-city-with-python-babd14d82fa2)
+11. [Building your own Covid-19 Epidemic Simple Model Using Python](https://towardsdatascience.com/building-your-own-covid-19-epidemic-simple-model-using-python-e39788fbda55)
 
 ## Videos
 1. [Exponential Growth and Epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
